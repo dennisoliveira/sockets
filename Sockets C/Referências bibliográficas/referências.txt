@@ -7,3 +7,4 @@ https://www.webdigi.co.uk/blog/2009/how-to-check-if-an-email-address-exists-with
 https://stackoverflow.com/questions/22077802/simple-c-example-of-doing-an-http-post-and-consuming-the-response
 http://www.klebermota.eti.br/2013/03/11/usando-o-gcc-e-o-make-para-compilar-lincar-e-criar-aplicacoes-cc/
 http://mindbending.org/pt/introducao-bibliotecas-em-c
+https://www.cs.tut.fi/~jkorpela/forms/cgic.html
